@@ -1,0 +1,13 @@
+#include <iostream>
+ using namespace std;
+
+ int main()
+ {
+	 int a;
+	 cout << "Enter value a :";
+	 cin >> a;
+	 int res = a + 9;
+	 cout << "a+9:" << res;
+	 return 0;
+
+}
